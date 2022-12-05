@@ -1,0 +1,56 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="human_full">
+    <defs></defs>
+    <title>human_full</title>
+    <g id="Слой_2">
+      <g id="Layer_3">
+        <path d="M15.11,12.71a1.82,1.82,0,0,0-1-1.29l-2.81-1.29h0l-1.16-.88h0a.8.8,0,0,0-.19-.38l0,0V7.44a7.55,7.55,0,0,0,.72-1.32,1.7,1.7,0,0,0,.77-1.32c0-.69-.21-.85-.42-.86C11,3.47,11.24,0,7.71,0,3.92,0,4.46,4,4.46,4h0c-.2,0-.42.17-.38.8a1.76,1.76,0,0,0,.76,1.32,9.32,9.32,0,0,0,.72,1.32V8.89a.78.78,0,0,0-.19.36l-1.16.87v.05L1.5,11.42a1.81,1.81,0,0,0-1,1.29L0,15.15s.46,1.16,7.8,1.16,7.79-1.16,7.79-1.16Z"></path>
+      </g>
+    </g>
+  </symbol>
+
+  <symbol id="loyalty" xmlnsDc="http://purl.org/dc/elements/1.1/" xmlnsCc="http://creativecommons.org/ns#" xmlnsRdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlnsSvg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlnsSodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlnsInkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" inkscapeVersion="0.92.4 (33fec40, 2019-01-16)" sodipodiDocname="loyalty.svg" viewBox="-0.3 0 10.079204 12.329124">
+    <defs id="defs4016">
+      <clipPath clipPathUnits="userSpaceOnUse" id="clipPath2582">
+        <path d="m 155.983,607.956 h 32.403 v -32.404 h -32.403 z" id="path2580" inkscapeConnectorCurvature="0"></path>
+      </clipPath>
+      <clipPath clipPathUnits="userSpaceOnUse" id="clipPath2618">
+        <path d="m 473.452,610.624 h 28.571 v -34.949 h -28.571 z" id="path2616" inkscapeConnectorCurvature="0"></path>
+      </clipPath>
+    </defs>
+    <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#000000" borderopacity="1.0" inkscapePageopacity="0.0" inkscapePageshadow="2" inkscapeZoom="0.7" inkscapeCx="-244.22711" inkscapeCy="41.885019" inkscapeDocumentUnits="mm" inkscapeCurrentLayer="layer1" showgrid="false" viewboxX="-0.3" fitMarginTop="0" fitMarginLeft="0" fitMarginRight="0" fitMarginBottom="0" inkscapeWindowWidth="1920" inkscapeWindowHeight="1051" inkscapeWindowX="1920" inkscapeWindowY="0" inkscapeWindowMaximized="1"></sodipodi:namedview>
+    <metadata id="metadata4019">
+      <rdf:RDF>
+        <cc:Work rdfAbout="">
+          <dc:format>image/svg+xml</dc:format>
+          <dc:type rdfResource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+          <dc:title></dc:title>
+        </cc:Work>
+      </rdf:RDF>
+    </metadata>
+    <g inkscapeLabel="Layer 1" inkscapeGroupmode="layer" id="layer1" transform="translate(-125.61635,-132.50946)">
+      <g transform="matrix(0.35277777,0,0,-0.35277777,-41.706995,347.92403)" id="g2612">
+        <g id="g2614"></g>
+        <g id="g2630">
+          <g clip-path="url(#clipPath2618)" id="g2628">
+            <g transform="translate(475.4107,610.6243)" id="g2622">
+              <path d="m 0,0 c -1.082,0 -1.959,-0.877 -1.959,-1.959 0,-0.277 0.059,-0.54 0.163,-0.778 0.179,-0.408 0.463,-1.249 0.463,-1.985 v -28.891 c 0,-0.736 0.596,-1.336 1.333,-1.336 0.736,0 1.336,0.6 1.336,1.336 v 28.891 c 0,0.736 0.283,1.577 0.459,1.985 0.105,0.238 0.163,0.501 0.163,0.778 C 1.961,-0.88 1.082,0 0,0" id="path2620" inkscapeConnectorCurvature="0"></path>
+            </g>
+            <g transform="translate(497.1518,596.9736)" id="g2626">
+              <path d="M 0,0 C -0.27,-0.368 -0.267,-0.863 0.008,-1.198 1.473,-2.974 2.981,-4.431 4.405,-5.593 5.66,-6.618 4.024,-7.365 3.657,-7.521 c -7.47,-3.191 -14.934,3.485 -22.399,1.452 V 9.691 C -11.265,11.725 -3.789,5.02 3.688,8.252 4.053,8.408 4.386,8.37 4.547,8.124 4.707,7.88 4.667,7.46 4.444,7.049 2.963,4.333 1.481,2.031 0,0" id="path2624" inkscapeConnectorCurvature="0"></path>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </symbol>
+
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" id="sort-up-solid">
+    <path d="M182.6 41.4c-12.5-12.5-32.8-12.5-45.3 0l-128 128c-9.2 9.2-11.9 22.9-6.9 34.9s16.6 19.8 29.6 19.8H288c12.9 0 24.6-7.8 29.6-19.8s2.2-25.7-6.9-34.9l-128-128z"></path>
+  </symbol>
+
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" id="plus-solid">
+    <path d="M256 80c0-17.7-14.3-32-32-32s-32 14.3-32 32V224H48c-17.7 0-32 14.3-32 32s14.3 32 32 32H192V432c0 17.7 14.3 32 32 32s32-14.3 32-32V288H400c17.7 0 32-14.3 32-32s-14.3-32-32-32H256V80z"></path>
+  </symbol>
+
+</svg>

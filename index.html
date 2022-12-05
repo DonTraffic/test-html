@@ -1,0 +1,154 @@
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="style.css" />
+
+    <title>Тестовое задание</title>
+</head>
+
+<body>
+    <div class="container">
+
+        <div class="diagram">
+            <svg viewBox="0 0 36 36" class="circle-chart">
+                <path class="circle_back gray" stroke-dasharray="88, 100"
+                    d="M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831" />
+                <path class="circle green " stroke-dasharray="59, 100"
+                    d="M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831" />
+                <path class="circle orange" stroke-dasharray="33, 100"
+                    d="M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831" />
+            </svg>
+            <div class="content">
+
+                <svg class="content__flag">
+                    <use xlink:href="svg/sprite.svg#loyalty"></use>
+                </svg>
+
+                <div class="count">
+                    <p>72.</p>
+                    <div class="count__fraction">
+                        <p class='count__fraction_symbol'>%</p>
+                        <p class='count__fraction_count'>7</p>
+                    </div>
+                </div>
+
+                <h2 class='content__heading'>Лояльность</h2>
+                <p class='content__statistic'>ниже среднего</p>
+                <p class='content__text'>
+                    по отрасли: FMCG <br>
+                    значение слева от медианы <br>
+                    52.0% - 83.1% <br>
+                </p>
+                <p class='content__growth'>
+                    <svg class='content__growth_svg'>
+                        <use xlink:href="svg/sprite.svg#sort-up-solid"></use>
+                    </svg>
+                    3.1
+                </p>
+
+            </div>
+            <div class="diagram__line">
+                <div class="diagram__line_item"></div>
+            </div>
+        </div>
+
+        <div class="statistic">
+            <div class="statistic__item_container">
+                <div class="statistic__item">
+                    <div class="statistic__item_title">Промоутеры</div>
+                    <div class="statistic__item_counts">
+                        <div class="item__counts_percent">32.0%</div>
+                        <div class="item__counts_quantity">
+                            <p>81</p>
+                            <svg>
+                                <use xlink:href="svg/sprite.svg#human_full"></use>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="statistic__item_progress">
+                        <div class="item_progress_border"></div>
+                        <div class="item_progress_container">
+                            <div class="item__progress_top">
+                                <div class="progress__top_completion green"></div>
+                                <p class="progress__top_text">+1.2%</p>
+                            </div>
+                            <div class="item__progress_bottom">
+                                <div class="progress__top_completion green-opacity"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="statistic__item__line">
+                    <div class="item__line">
+                        <div class="item__line_horizon"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="statistic__item_container">
+                <div class="statistic__item">
+                    <div class="statistic__item_title">Скептики</div>
+                    <div class="statistic__item_counts">
+                        <div class="item__counts_percent">39.1%</div>
+                        <div class="item__counts_quantity">
+                            <p>8</p>
+                            <svg>
+                                <use xlink:href="svg/sprite.svg#human_full"></use>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="statistic__item_progress">
+                        <div class="item_progress_border"></div>
+                        <div class="item_progress_container">
+                            <div class="item__progress_top">
+                                <div class="progress__top_completion yellow"></div>
+                                <p class="progress__top_text">+4.8%</p>
+                            </div>
+                            <div class="item__progress_bottom">
+                                <div class="progress__top_completion yellow-opacity"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="statistic__item__line">
+                    <div class="item__line item__line_small"></div>
+                    <svg class="item__plus">
+                        <use xlink:href="svg/sprite.svg#plus-solid"></use>
+                    </svg>
+                    <div class="item__line item__line_end"></div>
+                </div>
+            </div>
+
+            <div class="statistic__item_container">
+                <div class="statistic__item">
+                    <div class="statistic__item_title">Критики</div>
+                    <div class="statistic__item_counts">
+                        <div class="item__counts_percent">79.8%</div>
+                        <div class="item__counts_quantity">
+                            <p>7</p>
+                            <svg>
+                                <use xlink:href="svg/sprite.svg#human_full"></use>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="statistic__item_progress">
+                        <div class="item_progress_border"></div>
+                        <div class="item_progress_container">
+                            <div class="item__progress_top">
+                                <div class="progress__top_completion red"></div>
+                                <p class="progress__top_text">-9.7%</p>
+                            </div>
+                            <div class="item__progress_bottom">
+                                <div class="progress__top_completion red-opacity"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
